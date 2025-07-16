@@ -8,12 +8,19 @@ Exemplo simples de ambiente moderno para projetos Java rodando dentro do WSL int
 
 meu-projeto-java/
 ├── app/ # Código fonte e testes da aplicação
+
 │ ├── build.gradle.kts
+
 │ └── src/
+
 ├── gradle/ # Configurações e wrapper do Gradle
+
 ├── gradle.properties # Propriedades globais do Gradle
+
 ├── gradlew / gradlew.bat
+
 ├── settings.gradle.kts
+
 ├── .vscode/ # Configurações locais para VS Code
 
 
